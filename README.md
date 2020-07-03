@@ -1,2 +1,3 @@
-# GADGET_CNN_VGG16
-CNN_VGG16_DEEP LEARNING
+# GADGETS_CNN_VGG16
+
+convolutional neural network vgg16 
